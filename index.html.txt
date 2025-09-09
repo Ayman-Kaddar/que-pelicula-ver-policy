@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Eliminar cuenta - Que Película Ver</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 2rem; line-height: 1.6; }
+    h1 { color: #e50914; }
+  </style>
+</head>
+<body>
+  <h1>Eliminar tu cuenta en <em>Que Película Ver</em></h1>
+  <p>
+    Si deseas eliminar tu cuenta y todos los datos asociados a la aplicación <strong>Que Película Ver</strong>,
+    por favor sigue estos pasos:
+  </p>
+  <ol>
+    <li>Envía un correo electrónico a <a href="mailto:soporte@tudominio.com">soporte@tudominio.com</a>
+    desde la misma dirección con la que creaste tu cuenta.</li>
+    <li>Incluye en el asunto: <strong>Eliminar mi cuenta</strong>.</li>
+    <li>Tu solicitud será procesada en un plazo máximo de 7 días hábiles.</li>
+  </ol>
+
+  <h2>Datos eliminados</h2>
+  <ul>
+    <li>Correo electrónico de registro.</li>
+    <li>Historial de películas guardadas y favoritos.</li>
+    <li>Cualquier otro dato asociado a tu perfil dentro de la aplicación.</li>
+  </ul>
+
+  <h2>Datos conservados</h2>
+  <p>
+    Podemos conservar algunos datos de uso anónimos (como métricas generales) únicamente para fines estadísticos,
+    pero nunca estarán vinculados a tu identidad.
+  </p>
+
+  <h2>Periodo de retención</h2>
+  <p>
+    Una vez confirmada la eliminación, tus datos personales se borrarán en un plazo máximo de 30 días.
+  </p>
+</body>
+</html>
